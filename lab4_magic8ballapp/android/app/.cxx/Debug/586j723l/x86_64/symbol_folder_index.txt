@@ -1,0 +1,1 @@
+D:\AndroidStudioProjects\lab04_magic8ballapp\build\app\intermediates\cxx\Debug\586j723l\obj\x86_64
